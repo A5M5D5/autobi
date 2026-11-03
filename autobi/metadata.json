@@ -1,0 +1,7 @@
+{
+  "name": "AutoBI - Smart Car Sales & Inventory System",
+  "description": "Cloud-based automotive dealership ERP & BI analytics platform with Gemini AI Copilot, Multimodal VIN/Document OCR, and 1K/2K/4K Studio Car Visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

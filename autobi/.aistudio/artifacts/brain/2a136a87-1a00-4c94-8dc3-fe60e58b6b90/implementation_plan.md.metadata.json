@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for AutoBI (Smart Car Sales & Inventory System / نظام مبيعات ومخزون السيارات الذكي). Outlines relational PostgreSQL schema, multi-tier RBAC, bulk CSV/Excel ingestion, tablet field inspection, Gemini Copilot & OCR engine, 1K/2K/4K Studio AI car visualizer, and real-time BI dashboards.",
+  "updatedAt": "2026-10-13T22:13:40.721681297Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
